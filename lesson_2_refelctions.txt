@@ -1,0 +1,6 @@
+2.1 -What happens when you initialize a repository? Why do you need to do it?
+I am not what happens exactely but I have an idea GIT may create a repository for our new git project and do some initilisation to keep track of all changes that will occur in futur, for the seconds part of the question Yes we need to initilise git this way GIT will know that this directory is a repository and it can do all the action we can perform on with git
+
+2.02- How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I think of staging area as an intermediate place where we can put our newly create file that are not tracked yet by git, the diffrence between stagin area and directory is GIT knows that file in SA should be commited and added to tracked file  
