@@ -1,0 +1,22 @@
+1 - How did vewing a diff between two versions of a file help you see the bug that was introduced ? 
+in fact we start from the point when we had a version that woked just fine at least worked better, and then we did some modification to improve some things but unfontinatelly we end up with some bug and now we want to retourn to the previous state so it's quit logic to try to find what id diffrence between what we had earlier and the version that contains the bug
+ 
+2- How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+I may said that havig all the history of file that hepls us to see all the changes and the evolution that it have been through give us an overview of the entire devellopement steps and, we can use this global view to determine what goes fine ans how we can impove it in the futtur ans most important to see waht goes wrong and try to figure out why we did it this way to avoid repeating the same error in the futur, in more general way seeing the history of our work should make a step back and think about it make critic point and try to improve the whole process.
+
+3 - What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+at the first glance one can say why we just let the systeme handle saving the changes at his own pace, Really !! but at a second thought the system can do gret job saving all versions even too much versions that makes the whole idea of verioning completelly unsuful because it will make a version probablly whenever some little change happens witch make the work of kepping track of meaningful changes quit impossible to handle, so I think choice of manually crete points of check is way more likelly usuful and we can make a decision whenever we judje that we did some meingful changes in the version that we should update it ans save it, this sounds perfect but it have it 
+
+4- Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+ 
+the principle of making different versions is to keep a project as one big entity and to keep track of the changes that has been made to this projet so it make sens the GIT give the possibility to do commits with multiple files at once, althou when a developper want to make a change like addings new feature it's more likely to modify more than a single file, this files are in some way or another related to each other contrary to google doc witch not allowed this practice because I think of the absense of this relation between files
+
+5 - How can you use the commands git log and git diff to view the history of files?
+
+it's pretty straitfotward we  use git log to see all the commits that we have made we can see all the diffrents commits with their IDs and messages than we can use git diff to find diffrences between to particular commits using the ID
+
+6 - How might using version control make you more confident to make changes that could break something?
+knwing that breaking the whole project isn't any more a tragic events we can at any time return to previous version a retore an old version that woked, knwonig that make me more confident and willings to do changes without the fear that I wil lose all the worked tha have been done for weeks or months 
+
+7- How Do You Want to Use Git?
+Git is a powerfull tool and I intend to use is in future in any relative big project that ill help me be more efficient in what I am doing and prevent me doing extra work if I did something wrong
