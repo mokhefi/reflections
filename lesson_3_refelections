@@ -1,3 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
 we choose to use a remote repository when there is more than one memeber developping the project esspeacilly 
 if these memebres are located in diffrent places, it is also a good practice to keep a backup version to remote place
+#these line is to make changes in both side a remote and the local 
